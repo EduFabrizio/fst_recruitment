@@ -20,6 +20,7 @@ task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/message.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/message_event.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/message_forward.h
+task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/message_operations.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/message_traits.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/names.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/node_handle.h
@@ -57,6 +58,7 @@ task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/wall_timer.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/ros/wall_timer_options.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/rosconsole/macros_generated.h
+task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/std_msgs/Int32.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/xmlrpcpp/XmlRpcDecl.h
 task1/CMakeFiles/sub_node.dir/src/subscriber_node.cpp.o: /opt/ros/noetic/include/xmlrpcpp/XmlRpcValue.h
 
